@@ -1,0 +1,22 @@
+body {
+  font-family:'Trebuchet MS',sans-serif;
+  color:rgb(255, 255, 255);
+  background-color:rgb(255, 165, 0)
+}
+
+.concatenation {
+  position:absolute;
+  top:30%;
+  left:30%;
+}
+
+h1 {
+  font-size:80px;
+  margin-bottom:0;
+}
+
+h2 {
+  font-size:33px;
+  margin:30px;
+  margin-top:0;
+}
